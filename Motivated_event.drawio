@@ -398,16 +398,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JngBpe3M_D_rG8kDCuJ8-3" value="Stage 1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="276" y="172" width="444" height="120" as="geometry" />
+          <mxGeometry x="276" y="172" width="540" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JngBpe3M_D_rG8kDCuJ8-4" value="压力平稳，没有异常波动" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JngBpe3M_D_rG8kDCuJ8-3">
-          <mxGeometry y="30" width="444" height="30" as="geometry" />
+          <mxGeometry y="30" width="540" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JngBpe3M_D_rG8kDCuJ8-5" value="温度平稳，没有异常波动" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JngBpe3M_D_rG8kDCuJ8-3">
-          <mxGeometry y="60" width="444" height="30" as="geometry" />
+          <mxGeometry y="60" width="540" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JngBpe3M_D_rG8kDCuJ8-6" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JngBpe3M_D_rG8kDCuJ8-3">
-          <mxGeometry y="90" width="444" height="30" as="geometry" />
+        <mxCell id="JngBpe3M_D_rG8kDCuJ8-6" value="持续时间为半天到几天，取决于：初始顶层的垂直高度；进入或产生的总热能；&lt;div&gt;罐体的绝对压力值；分层之间的初始体积密度差；&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JngBpe3M_D_rG8kDCuJ8-3">
+          <mxGeometry y="90" width="540" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
