@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.7.10" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.7.12" pages="4">
   <diagram name="第 1 页" id="pk123mcdlqgLAMYyw5vK">
     <mxGraphModel dx="1881" dy="1219" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -388,6 +388,26 @@
         </mxCell>
         <mxCell id="rg0MMoW-Ycb7GtTocUlK-3" value="`take`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-184" y="-18" width="44" height="24" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="E_072-yc-dB303H3dSzM" name="LNG_Rollover_四阶段分析">
+    <mxGraphModel dx="1026" dy="651" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JngBpe3M_D_rG8kDCuJ8-3" value="Stage 1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="172" width="444" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JngBpe3M_D_rG8kDCuJ8-4" value="压力平稳，没有异常波动" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JngBpe3M_D_rG8kDCuJ8-3">
+          <mxGeometry y="30" width="444" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JngBpe3M_D_rG8kDCuJ8-5" value="温度平稳，没有异常波动" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JngBpe3M_D_rG8kDCuJ8-3">
+          <mxGeometry y="60" width="444" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JngBpe3M_D_rG8kDCuJ8-6" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JngBpe3M_D_rG8kDCuJ8-3">
+          <mxGeometry y="90" width="444" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
